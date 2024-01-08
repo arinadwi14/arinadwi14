@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arina Dwi Safitri
-- 👀 I’m interested in Android Development and Front-End Development
+- 👀 I’m interested in Web Front-End Development and UI/UX Development
 - 🌱 I’m currently learning Javascript
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
